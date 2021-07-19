@@ -3,13 +3,11 @@ package ru.job4j.module;
 import org.junit.Assert;
 import org.junit.Test;
 
-import static org.junit.Assert.*;
-
 public class PointTest {
 
     @Test
     public void when00to20then2() {
-        double expected = 3;
+        double expected = 2;
         int x1 = 0;
         int y1 = 0;
         int x2 = 2;
